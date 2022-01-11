@@ -24,7 +24,7 @@ module.exports = {
     sidebar:{ // 侧边栏配置
       '/basic/': [
           {
-            title: '前端基础',
+            title: '后端基础',
             children: [
               '/basic/1.html',
               '/basic/2.html',

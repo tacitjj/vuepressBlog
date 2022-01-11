@@ -10,4 +10,4 @@ features:
   details: 每月至少一个进阶知识点深度理解，探讨高级后端工程师应知应会。
 - title: 面试题合集
   details: 我们不做面试造火箭、上班拧螺丝的事，但该会的我们一个也不能落下。
-footer: MIT Licensed | Copyright © 2018-present Chen
+footer: MIT Licensed | Copyright © 2021-present Jin
