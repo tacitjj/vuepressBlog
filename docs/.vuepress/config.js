@@ -18,7 +18,7 @@ module.exports = {
       nav:[ // 导航栏配置
         {text: '后端基础', link: '/accumulate/' },
         {text: '算法题库', link: '/algorithm/'},
-        {text: 'Github', link: 'https://baidu.com'}      
+        {text: 'Github', link: 'https://github.com/jinyingxin'}
       ],
     // 在sidebar配置侧导航栏
     sidebar:{ // 侧边栏配置
@@ -44,7 +44,7 @@ module.exports = {
         {
           title: '进阶之路',
           children: [
-            '/advanced/1.html' 
+            '/advanced/1.html'
           ]
         }
       ],
@@ -52,7 +52,7 @@ module.exports = {
         {
           title: '面试题合集',
           children: [
-            '/interview/1.html' 
+            '/interview/1.html'
           ]
         }
       ],
