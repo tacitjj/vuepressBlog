@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vuepress dev docs",
+    "dev": "vuepress dev docs --temp .temp",
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh"
   },
@@ -16,6 +16,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vue-template-compiler": "^2.7.14"
+    "vue-template-compiler": "^2.7.14",
+    "vuepress-plugin-code-copy": "^1.0.6"
+  },
+  "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
+    "vuepress-plugin-cursor-effects": "^1.1.6",
+    "vuepress-plugin-fulltext-search": "^2.2.1",
+    "vuepress-theme-reco": "^1.6.16"
   }
 }
